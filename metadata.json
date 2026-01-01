@@ -1,0 +1,5 @@
+{
+  "name": "Demo Bank DevOps Platform",
+  "description": "A comprehensive DevOps dashboard for a financial institution, featuring incident management, monitoring, security, cost, and productivity metrics.",
+  "requestFramePermissions": []
+}
